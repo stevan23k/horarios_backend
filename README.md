@@ -3,7 +3,7 @@
 - Clonar repositorio.
 
 ```
-git clone <https://github.com/stevan23k/horarios_backend.git>
+git clone https://github.com/stevan23k/horarios_backend.git
 cd horarios_backend
 ```
 
