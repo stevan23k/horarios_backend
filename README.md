@@ -9,7 +9,7 @@ cd horarios_backend
 
 ## Luego de crear base de datos
 
-- Crear un archivo .env en la raiz del proyecto.
+- Crear un archivo .env en la raíz del proyecto.
 - Rellenar esta estructura con las credenciales de la base de datos.
 
 ```
@@ -20,7 +20,7 @@ DATABASE_PASSWORD=""
 DATABASE_DATABASE=""
 ```
 
-- Instalar dependencias e iniciar el proyecto, correra en el puerto 3000.
+- Instalar dependencias e iniciar el proyecto, correrá en el puerto 3000.
 
 ```
 npm install
